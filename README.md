@@ -1,3 +1,4 @@
+<img width="800" height="493" alt="Screenshot 2026-09-17 221225" src="https://github.com/user-attachments/assets/85f0481b-09fe-4abc-8d27-e10ecf8e3a2d" />
 # Real-Time Face Detection 
 
 ## 📌 Project Overview
